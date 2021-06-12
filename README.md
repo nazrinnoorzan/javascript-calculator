@@ -1,4 +1,4 @@
-# Build A Drum Machine
+# Javascript Calculator
 
 Based on the Codepen project here https://codepen.io/freeCodeCamp/pen/wgGVVX
 
